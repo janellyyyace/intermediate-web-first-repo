@@ -1,4 +1,9 @@
 body {
     background-color: maroon;
     color: goldenrod;
+
+li.personal{
+    color: silver;
+}
+    
 }
